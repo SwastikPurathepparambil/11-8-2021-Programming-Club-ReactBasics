@@ -1,0 +1,9 @@
+.product {
+  width: 100vw;
+  height: 35vh;
+  background-color: lightblue;  
+}
+
+.imgSize {
+  width: 35vh;
+}
